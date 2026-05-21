@@ -1,0 +1,6 @@
+{
+  "name": "TubePy",
+  "description": "Premium Python-powered YouTube Video and Playlist segment downloader with offline media playback previews and Google account authentication bypass.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
